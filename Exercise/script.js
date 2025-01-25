@@ -7,7 +7,7 @@
 function say_hello() {
   // CODE HERE!!!
   console.log("Thichanon Ratanasaenwan");
-  console.log("Kittapas")
+  console.log("Kittapas Gatgumnurd")
     
 }
 
