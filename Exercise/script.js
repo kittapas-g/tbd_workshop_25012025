@@ -7,7 +7,8 @@
 function say_hello() {
   // CODE HERE!!!
   console.log("Thichanon Ratanasaenwan");
-  console.log("Kittapas yoooo");
+  console.log("Kittapas Gatgumnurd")
+    
 }
 
 // Don’t change the code under this comment!
